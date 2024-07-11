@@ -1,0 +1,12 @@
+List of external parts I used in the making of the launcher.
+This is not exhaustive, or really even close to complete.
+
+- MG90S Servo: 
+- Springs:
+- Ultrasonic sensor:
+- Small laser:
+- MPU??? Gyro Sensor:
+- 4x6 perfboard:
+- 30 gauge wire (would probably get something much thicker):
+- Small paperclip (regular sized ones are too thick to fit in the servo horn holes)
+- Various other electronic components
